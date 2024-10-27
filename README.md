@@ -29,6 +29,7 @@ I'm a **Full-Stack Web Developer** with a passion for crafting efficient, scalab
 **Tools:**
 <p>
   <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img alt="IntelijIdea" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
   <img alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
@@ -37,8 +38,8 @@ I'm a **Full-Stack Web Developer** with a passion for crafting efficient, scalab
 ---
 
 Feel free to connect with me! 🚀
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/arie-prasetyo" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px" />
-  </a>
+  </a> = Arie Prasetyo 
 </p>
