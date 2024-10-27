@@ -1,6 +1,6 @@
-# Hi there, I'm Arie Prasetyo! 👋✨
+# Hello , I'm Arie Prasetyo! 👋✨
 
-I'm a **Full-Stack Web Developer** with a passion for crafting efficient, scalable, and user-friendly web applications. 
+I am a Full-Stack Web Developer dedicated to designing and building efficient, scalable, and user-centric web applications that enhance the overall user experience.
 
 ---
 
@@ -37,9 +37,11 @@ I'm a **Full-Stack Web Developer** with a passion for crafting efficient, scalab
 
 ---
 
-Feel free to connect with me! 🚀
 <p>
+  🚀 Feel free to connect with me! 🚀<br>
+  <strong>Arie Prasetyo : linkedin.com/in/arie-prasetyo </strong><br>
+  <em>⬇️Or Click down below to connect on LinkedIn!</em><br>
   <a href="https://www.linkedin.com/in/arie-prasetyo" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px" />
-  </a> = Arie Prasetyo 
+  </a>
 </p>
