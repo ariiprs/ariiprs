@@ -37,3 +37,8 @@ I'm a **Full-Stack Web Developer** with a passion for crafting efficient, scalab
 ---
 
 Feel free to connect with me! 🚀
+<p align="center">
+  <a href="https://www.linkedin.com/in/arie-prasetyo" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px" />
+  </a>
+</p>
